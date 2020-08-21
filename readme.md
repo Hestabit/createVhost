@@ -1,6 +1,6 @@
 # Create vhost for php project (laravel,wordpress)
 
-[![Hestabit]](https://www.hestabit.com)
+[![Hestabit](https://hestabit-development.s3-us-west-2.amazonaws.com/images/dTxpPi9lDf.jpg)](https://www.hestabit.com)
 
 
 # This file will help you to create Virtual host.
