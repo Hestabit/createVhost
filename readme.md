@@ -3,7 +3,7 @@
 [![Hestabit](https://hestabit-development.s3-us-west-2.amazonaws.com/images/hb.png)](https://www.hestabit.com)
 
 
-# This file will help you to create Virtual host.
+# This file will help you to create Virtual Host.
 
 ## How to use this file
 
